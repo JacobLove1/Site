@@ -1,16 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome!
+Maintained by Jacob Love
 
-You can use the [editor on GitHub](https://github.com/JacobLove1/Site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Projects
 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Project1 KnickKnack
 ## Header 2
 ### Header 3
 
