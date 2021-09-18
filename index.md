@@ -1,3 +1,8 @@
+
+---
+layout: post
+title: Welcome
+---
 ## Welcome!
 Maintained by Jacob Love
 
