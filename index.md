@@ -1,17 +1,10 @@
-
----
-layout: post
-title: Welcome
----
 ## Welcome!
-Maintained by Jacob Love
+By Jacob Love
 
-### Projects
+### Projects:
 
-
-```markdown
 
 # Project1 KnickKnack
 -[KnickKnack](https://github.com/JacobLove1/TrinketProject)
-[Project Credits](https://github.com/JacobLove1/Site/blob/main/VRCREDITS.txt)
-
+-[KnickKnack Project Credits](https://github.com/JacobLove1/Site/blob/main/VRCREDITS.txt)
+-KnickKnack Project Video In Progress
