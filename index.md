@@ -10,30 +10,8 @@ Maintained by Jacob Love
 
 
 ```markdown
-Syntax highlighted code block
 
 # Project1 KnickKnack
-## Header 2
-### Header 3
+-[KnickKnack](https://github.com/JacobLove1/TrinketProject)
+[Project Credits](https://github.com/JacobLove1/Site/blob/main/VRCREDITS.txt)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JacobLove1/Site/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-[VRCREDITS.txt](https://github.com/JacobLove1/Site/files/7190615/VRCREDITS.txt)
