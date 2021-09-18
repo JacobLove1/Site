@@ -1,0 +1,73 @@
+Rocket Models:
+
+Rocket:
+printable_models
+https://free3d.com/3d-model/rocket-v1--141304.html 
+
+
+Table (used at top of scaffold alongside a custom block):
+mitsui
+https://free3d.com/3d-model/table-747735.html
+
+Scaffold (and copies):
+akrstudio
+https://free3d.com/3d-model/triangular-truss-straight-segment-71-58776.html
+
+Textures:
+
+Kennedy Space Logo:
+Image from Ryan Kobrick, original design NASA, public domain image
+http://www.collectspace.com/ubb/Forum18/HTML/001293.html
+
+NASA Logo
+NASA
+https://commons.wikimedia.org/wiki/File:NASA_logo.svg
+
+Smoke Texture:
+Jasper Flick
+https://catlikecoding.com/unity/tutorials/custom-srp/particles/
+
+Sounds:
+Rocket Sound:
+finallaunchmix181
+Kay Hire, NASA
+https://www.nasa.gov/feature/goddard/2018/sounds-of-a-launch
+
+The Planets, op. 32 - i. Mars, The Bringer of War:
+Gustav Holst
+https://commons.wikimedia.org/wiki/File:Gustav_Holst_-_the_planets,_op._32_-_i._mars,_the_bringer_of_war.ogg
+
+Click sound:
+https://mixkit.co/free-sound-effects/click/
+
+Self-designed models:
+
+Launchpad, launchpad accent, coupling rod, scaffold platform bottom half, rain effect/textrue, launch particle effect
+
+Pyramid models:
+
+
+Tree:
+PS3D
+https://archibaseplanet.com/download/b37f1906.html
+
+Rock1 (and copies):
+tyrosmith
+https://free3d.com/3d-model/low-poly-rock-4631.html
+
+LowPolyRock
+nandensejapanense
+https://free3d.com/3d-model/low-poly-rock-302471.html
+
+Textures:
+
+Rock Texture:
+WildJaeger
+https://www.deviantart.com/wildjaeger/art/Rock-Texture-664377041
+
+Cartoon Pyramid Texture (also used for tree texture):
+mkavalenkau
+https://www.freepik.com/premium-vector/cartoon-mayan-pyramid-jungle-illustration_13420180.htm#&position=20
+
+Self-Designed models:
+15 pyramid parts: 6 steps, 1 main block, 2 door blocks, 2 accent blocks, 4 stairs, rain effect/textrue
