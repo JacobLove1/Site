@@ -10,5 +10,5 @@ shop but with some added technological flare. The two locations depicted are Ken
 A second application allows the user to take the Kennedy Space Center knickknack and place a supersized version of it wherever they would like by detecting the ground with the smartphone camera and simulating the model on a click.\
 -[KnickKnack](https://github.com/JacobLove1/TrinketProject)\
 -[KnickKnack Project Credits](https://github.com/JacobLove1/Site/blob/main/VRCREDITS.txt)\
--[List of self-designed models](https://github.com/JacobLove1/Site/blob/51c68821b93d8a0f5fc4ad27239d63b827c7491a/Self%20Designed%20Models.pdf)
+-[List of self-designed models](https://github.com/JacobLove1/Site/blob/51c68821b93d8a0f5fc4ad27239d63b827c7491a/Self%20Designed%20Models.pdf)\
 -KnickKnack Project Video In Progress
