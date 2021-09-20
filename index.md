@@ -13,4 +13,5 @@ A second application allows the user to take the Kennedy Space Center knickknack
 -[KnickKnack Project Credits](https://github.com/JacobLove1/Site/blob/main/VRCREDITS.txt)\
 -[List of self-designed models](https://github.com/JacobLove1/Site/blob/51c68821b93d8a0f5fc4ad27239d63b827c7491a/Self%20Designed%20Models.pdf)\
 -[KnickKnack Project Video](https://youtu.be/L9n7vWq3tWQ)
--[Model descriptions and custom 8-ball sayings](https://github.com/JacobLove1/Site/blob/20532df4fbc2def1a0937a222ce9c0f5bf21322a/Model%20depiction%20and%208ball%20description.docx)
+-[Model descriptions and custom 8-ball sayings](https://github.com/JacobLove1/Site/blob/20532df4fbc2def1a0937a222ce9c0f5bf21322a/Model%20depiction%20and%208ball%20description.docx)\
+-[AR object popularity paper](https://github.com/JacobLove1/Site/blob/534d40d4d764ac0622a1dc6864ba73545bf9137e/The%20future%20of%20AR.docx)
