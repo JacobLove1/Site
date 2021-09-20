@@ -40,10 +40,6 @@ https://commons.wikimedia.org/wiki/File:Gustav_Holst_-_the_planets,_op._32_-_i._
 Click sound:
 https://mixkit.co/free-sound-effects/click/
 
-Self-designed models:
-
-Launchpad, launchpad accent, coupling rod, scaffold platform bottom half, rain effect/textrue, launch particle effect
-
 Pyramid models:
 
 
@@ -70,4 +66,5 @@ mkavalenkau
 https://www.freepik.com/premium-vector/cartoon-mayan-pyramid-jungle-illustration_13420180.htm#&position=20
 
 Self-Designed models:
-15 pyramid parts: 6 steps, 1 main block, 2 door blocks, 2 accent blocks, 4 stairs, rain effect/textrue
+
+
