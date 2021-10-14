@@ -17,3 +17,7 @@ A second application allows the user to take the Kennedy Space Center knickknack
 -[KnickKnack Project Video](https://youtu.be/L9n7vWq3tWQ)\
 -[Model descriptions and custom 8-ball sayings](https://github.com/JacobLove1/Site/blob/20532df4fbc2def1a0937a222ce9c0f5bf21322a/Model%20depiction%20and%208ball%20description.docx)\
 -[AR object popularity paper](https://github.com/JacobLove1/Site/blob/534d40d4d764ac0622a1dc6864ba73545bf9137e/The%20future%20of%20AR.docx)
+
+# Project2 ScareCo
+This project uses the VRTK package in Unity to create a VR experience. The project simulates a fictional startup, “ScareCo,” that is using various objects such as toys and boardgames to help people get over their fear of family game night. The company is using their friendly environment to slowly introduce people to family games to alleviate their fear, and if the patient were to run to a single-player game such as the nearby arcade console they are discouraged as more board games are generated.\
+The environment features a highly interactable environment with a fully functional chess board with sound effects, various game facades, a Gameboy that plays the Tetris theme music, an oversized gaming die with sound, alongside others. Outside, the player is a garden scene enclosed in a glass dome with the universe slowly swirling around them. A full list of models is available below.
