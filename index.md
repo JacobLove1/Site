@@ -19,5 +19,13 @@ A second application allows the user to take the Kennedy Space Center knickknack
 -[AR object popularity paper](https://github.com/JacobLove1/Site/blob/534d40d4d764ac0622a1dc6864ba73545bf9137e/The%20future%20of%20AR.docx)
 
 # Project2 ScareCo
-This project uses the VRTK package in Unity to create a VR experience. The project simulates a fictional startup, “ScareCo,” that is using various objects such as toys and boardgames to help people get over their fear of family game night. The company is using their friendly environment to slowly introduce people to family games to alleviate their fear, and if the patient were to run to a single-player game such as the nearby arcade console they are discouraged as more board games are generated.\
-The environment features a highly interactable environment with a fully functional chess board with sound effects, various game facades, a Gameboy that plays the Tetris theme music, an oversized gaming die with sound, alongside others. Outside the ScareCo building there a garden scene enclosed in a glass dome with the universe slowly swirling around. A full list of models, links to the project, instillation instructions, and a video demo are available below.
+This project uses the VRTK package in Unity to create a VR experience designed for the Oculus Quest. The project simulates a fictional startup, “ScareCo,” that is using various objects such as toys and boardgames to help people get over their fear of family game night. The company is using their friendly environment to slowly introduce people to family games to alleviate their fear, and if the patient were to run to a single-player game such as the nearby arcade console they are discouraged as more board games are generated.\
+The environment features a highly interactable environment with a fully functional chess board with sound effects, various game facades, a Gameboy that plays the Tetris theme music, an oversized gaming die with sound, alongside others. Outside the ScareCo building there a garden scene enclosed in a glass dome with the universe slowly swirling around. A full list of models, links to the project, instillation instructions, and a video demo are available below.\
+-[ScareCo Code](https://github.com/JacobLove1/ScareCO.git)\
+-[Project Video](https://youtu.be/cNBYeYwCPxs)\
+-[Instillation Guide](https://github.com/JacobLove1/Site/blob/fa9cc5f457e1b987e63d165c5b570a987ac394d5/Instillation%20InstructionsP2.docx)\
+-[Assets list and asset credits](https://github.com/JacobLove1/Site/blob/cb8464e757c7d6357ab0134ef6d52d77b461a515/VRP2Assets.docx)\
+-[Framerate discussion](https://github.com/JacobLove1/Site/blob/b0f1967ae7dd1c30699352a01417750b93dc3f39/FramerateP2.docx)\
+-[Simulator vs VR](https://github.com/JacobLove1/Site/blob/d781fa52cdf8b104d5515266d7738fc8ccf63a00/Simulated%20vs%20headset%20VR.docx)\
+
+
