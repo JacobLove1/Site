@@ -26,6 +26,6 @@ The environment features a highly interactable environment with a fully function
 -[Instillation Guide](https://github.com/JacobLove1/Site/blob/fa9cc5f457e1b987e63d165c5b570a987ac394d5/Instillation%20InstructionsP2.docx)\
 -[Assets list and asset credits](https://github.com/JacobLove1/Site/blob/cb8464e757c7d6357ab0134ef6d52d77b461a515/VRP2Assets.docx)\
 -[Framerate discussion](https://github.com/JacobLove1/Site/blob/b0f1967ae7dd1c30699352a01417750b93dc3f39/FramerateP2.docx)\
--[Simulator vs VR](https://github.com/JacobLove1/Site/blob/d781fa52cdf8b104d5515266d7738fc8ccf63a00/Simulated%20vs%20headset%20VR.docx)\
+-[Simulator vs VR](https://github.com/JacobLove1/Site/blob/d781fa52cdf8b104d5515266d7738fc8ccf63a00/Simulated%20vs%20headset%20VR.docx)
 
 
