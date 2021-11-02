@@ -28,4 +28,15 @@ The environment features a highly interactable environment with a fully function
 -[Framerate discussion](https://github.com/JacobLove1/Site/blob/b0f1967ae7dd1c30699352a01417750b93dc3f39/FramerateP2.docx)\
 -[Simulator vs VR](https://github.com/JacobLove1/Site/blob/d781fa52cdf8b104d5515266d7738fc8ccf63a00/Simulated%20vs%20headset%20VR.docx)
 
+# Student Choice
+VR4FND\
+VR Prosthesis Embodiment studies has shown that amputee patients can reduce phantom limb related issues and embody their prosthetics by assuming a virtual prosthetic in VR and training the patient using the simulation that certain sensory cues mean certain types of feedback. 
+A prosthetic cannot “feel” in the traditional sense, but it can stimulate the remaining portion of the patient’s limb through small vibrations or other stimuli. Phantom limb syndrome, the feeling that their missing limb is still intact and certain sensations are felt in the phantom limb, is a functional neurological disorder (FND) that can cause patients to feel phantom pain and interpret stimuli to other parts of the body as touches to their nonexistent limb in a process called limb telescoping. Experiments simulating the prosthetic and allowing the patient to interact while feeling the prosthetic feedback in real life while seeing an entirely virtual body have shown promise in training those who experience limb telescoping to experience stimuli from their prosthetic as stimulation to the phantom limb that it replaced, decreasing discomfort and allowing for a “real” sensory experience.\
+Since 2016, 30 patients at Stanford have been involved in clinical trials for such a technology called VR4FND .
+VR4FND is an experimental therapy application that is in clinical trials which uses this VR prosthetic limb therapy to treat FND’s by immersing the patient in a VR mirror visual feedback system, that is a VR environment that mirrors actual motions, and provide the patient with actual touches on their body synchronized with a glowing light on the portion of the body the sensation would be correlated to in order to train the brain that a touch on a certain point, say a buzz on their amputated arm, correlated to a touch on the prosthetic, say the fingertip.\
+The technology is still undergoing clinical trials which are projected to conclude December of this year with results projected by January 2022.\
+[General informational news article about VR treatment for amputees](https://www.mobihealthnews.com/content/researchers-pair-vr-tactile-prosthetics-fight-amputees-phantom-limb-sensations)\
+[Multisensory bionic limb to achieve prosthesis embodiment and reduce distorted phantom limb perceptions](https://jnnp.bmj.com/content/90/7/833)\
+[Preliminary feasibility study for VR to treat FND](https://pubmed.ncbi.nlm.nih.gov/31687867/)\
+[Clinical trial documentation for VR4FND](https://clinicaltrials.gov/ct2/show/NCT02764476)
 
