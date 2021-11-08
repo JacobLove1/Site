@@ -73,13 +73,17 @@ Finally, the one concerned voiced across every study I found was the lack of dat
 ###### Conclusions:
 Despite the limitations of hardware and efficacy, VR seems to be the future of treatment for phantom limb. It may not be a miracle cure, but it does not have to be, it must only be an improvement on existing technology to be adopted. While there are many obstacles that remain, the technology seems to be almost strictly better than previous treatments, so as it becomes more widely available it is hard to imagine it will not be used.
 ###### Consulted articles:
-Kim Bullock et al. **Virtual Reality-Delivered Mirror Visual Feedback and Exposure Therapy for FND: A Midpoint Report of a Randomized Controlled Feasibility Study** https://neuro.psychiatryonline.org/doi/10.1176/appi.neuropsych.19030071?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed \
+Dave Muoio **Researchers pair VR, tactile prosthetics to fight amputees' phantom limb sensations** https://www.mobihealthnews.com/content/researchers-pair-vr-tactile-prosthetics-fight-amputees-phantom-limb-sensations \
+Elisabetta Ambron et. al. **Immersive Low-Cost Virtual Reality Treatment for Phantom Limb Pain: Evidence from Two Cases** https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5825921/ \
 Healthwise Staff **Phantom Limb Pain and Chronic Pain** https://www.uofmhealth.org/health-library/ty6877 \
-Susha Cheriyedath **What is a Phantom Limb?** https://www.news-medical.net/health/What-is-a-Phantom-Limb.aspx \
-NORD **Functional Neurological Disorder** https://rarediseases.org/rare-diseases/fnd/ \
-Laura Schmalzl **“Pulling Telescoped Phantoms Out of the Stump”: Manipulating the Perceived Position of Phantom Limbs Using a Full-Body Illusion** https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3206583/ \
-Thomas Rutledge et al. **A Virtual Reality Intervention for the Treatment of Phantom Limb Pain: Development and Feasibility Results** https://academic.oup.com/painmedicine/article/20/10/2051/5511535 \
 Giulio Rognini1 et. al. **Multisensory bionic limb to achieve prosthesis embodiment and reduce distorted phantom limb perceptions** https://jnnp.bmj.com/content/jnnp/90/7/833.full.pdf \
 Kim Bullock **Embodied Virtual Reality Therapy for Functional Neurological Symptom/ Conversion Disorder (VR4FND)** https://clinicaltrials.gov/ct2/show/NCT02764476 \
-Elisabetta Ambron et. al. **Immersive Low-Cost Virtual Reality Treatment for Phantom Limb Pain: Evidence from Two Cases** https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5825921/ \
-Dave Muoio **Researchers pair VR, tactile prosthetics to fight amputees' phantom limb sensations** https://www.mobihealthnews.com/content/researchers-pair-vr-tactile-prosthetics-fight-amputees-phantom-limb-sensations
+Kim Bullock et al. **Virtual Reality-Delivered Mirror Visual Feedback and Exposure Therapy for FND: A Midpoint Report of a Randomized Controlled Feasibility Study**\ https://neuro.psychiatryonline.org/doi/10.1176/appi.neuropsych.19030071?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed \
+Laura Schmalzl **“Pulling Telescoped Phantoms Out of the Stump”: Manipulating the Perceived Position of Phantom Limbs Using a Full-Body Illusion** https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3206583/ \
+NORD **Functional Neurological Disorder** https://rarediseases.org/rare-diseases/fnd/ \
+Susha Cheriyedath **What is a Phantom Limb?** https://www.news-medical.net/health/What-is-a-Phantom-Limb.aspx \
+Thomas Rutledge et al. **A Virtual Reality Intervention for the Treatment of Phantom Limb Pain: Development and Feasibility Results** https://academic.oup.com/painmedicine/article/20/10/2051/5511535
+
+
+
+
