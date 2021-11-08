@@ -5,6 +5,9 @@ A [functional neurological disorder](https://rarediseases.org/rare-diseases/fnd/
 A common manifestation of phantom limb is a so-called "telescoping limb" where the patient’s brain interprets the signals from the remaining nerve endings as corresponding to a nonexistent smaller version of their missing appendage. Telescoping limb is often progressive is correlated with increases in phantom pain.\
 Historical treatment:\
 Telescoping limb has been treated in the past by setting up camera on the head of a mannequin and over the head of the patient. The therapist would then touch the mannequin and the person in the same place at the same time so their brain would embody the mannequin. They would then touch the limb on the mannequin attempting to trick the brain into interpreting the phantom limb at full scale. This process is called virtual mirror therapy. \
+
+![Historical treatment](https://raw.githubusercontent.com/JacobLove1/Site/main/fndold.jpg)
+
 VR:\
 Several groups have been working on using VR as a potential outlet for similar therapy for phantom limb patients. The projects very slightly in method, but the basic premise of these therapies is like the historical treatment: by putting an amputee with a prosthetic limb into a VR environment and simulating their body and their prosthetic they can refocus the misperceived sensation as coming from the prosthetic. The goal is twofold: to alleviate the discomfort of sensations from within a mis-sized nonexistent body part by ascribing those sensations to the existing, albeit artificial, prosthetic limb, and to encourage embodiment of the prosthetic.\
 The first commercial launch of this technology is called VR4FND and is projected to launch at the end of the year.
