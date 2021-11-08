@@ -29,6 +29,7 @@ The environment features a highly interactable environment with a fully function
 -[Simulator vs VR](https://github.com/JacobLove1/Site/blob/d781fa52cdf8b104d5515266d7738fc8ccf63a00/Simulated%20vs%20headset%20VR.docx)
 
 # Student Choice
+[VR therapy for amputees full project](https://jacoblove1.github.io/StudentChoice/)
 ## Topic Page:
 VR4FND\
 VR Prosthesis Embodiment studies has shown that amputee patients can reduce phantom limb related issues and embody their prosthetics by assuming a virtual prosthetic in VR and training the patient using the simulation that certain sensory cues mean certain types of feedback. 
