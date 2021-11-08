@@ -28,7 +28,7 @@ The environment features a highly interactable environment with a fully function
 -[Framerate discussion](https://github.com/JacobLove1/Site/blob/b0f1967ae7dd1c30699352a01417750b93dc3f39/FramerateP2.docx)\
 -[Simulator vs VR](https://github.com/JacobLove1/Site/blob/d781fa52cdf8b104d5515266d7738fc8ccf63a00/Simulated%20vs%20headset%20VR.docx)
 
-# Student Choice
+# (Student Choice)[/studentchoice]
 ## Topic Page:
 VR4FND\
 VR Prosthesis Embodiment studies has shown that amputee patients can reduce phantom limb related issues and embody their prosthetics by assuming a virtual prosthetic in VR and training the patient using the simulation that certain sensory cues mean certain types of feedback. 
