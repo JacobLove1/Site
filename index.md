@@ -60,7 +60,7 @@ Essentially, VR provides the most realistic environment available for embodying 
 #### Who are its intended users?
 It may seem obvious that the users are amputees, but this technology in its current form is not a catch all treatment for anyone missing a limb. These treatments are specifically for phantom limb, and while phantom limb is common in amputees, many cease to experience the sensation after a few weeks. Moreover, the treatments so far seem most effective in patients experiencing telescoping phantom limb which makes up an even smaller group.\ 
 Most of the existing studies focus on patients missing arms or hands, and while it seems like the treatments could, in principle, transfer to those missing legs the design of some treatments requires standing and would need to be altered.\
-Some studies suggest more general applications, particularly for prosthetic embodiment and pain reduction in phantom limbs at large. There is still too little research available to determine if these applications are effective or if the usefulness of VR will be limited to telescoping limb therapy.\
+Some studies suggest more general applications, particularly for prosthetic embodiment and pain reduction in phantom limbs at large. There is still too little research available to determine if these applications are effective or if the usefulness of VR will be limited to telescoping limb therapy.
 #### What are the issues with it?
 While this technology is undoubtedly exciting, it faces some serious limitations. These limitations can be divided into hardware challenges, and efficacy challenges.\
 Hardware challenges:\
