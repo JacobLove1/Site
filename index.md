@@ -51,6 +51,6 @@ The menu also gives the ability to shrink to one foot in height, return to norma
 A new movement system has also been added for easier mobility in zero gravity, where the player can press the front right trigger and move in the direction their right hand is pointing.\
 -[ScareCo Code](https://github.com/JacobLove1/ScareCO.git)\
 -[Instillation Guide](https://github.com/JacobLove1/Site/blob/36420fd12580a2ecb43297109b4cc00d69feff33/Instillation%20InstructionsP3.docx)\
--[Project Video](https://www.youtube.com/)\
+-[Project Video](https://youtu.be/FXWkQ3PE7ss)\
 -[Assets list and asset credits](https://github.com/JacobLove1/Site/blob/5451abfd10430fd8d31f886e043ac0afaefd3385/VRP3Assets.docx)\
--[Notes On Perspective Shift]
+-[Notes On Perspective Shift](https://github.com/JacobLove1/Site/blob/c387dc0d19cfcda6ec3e8ced2d27b61a042032d8/P3Notes.docx)
