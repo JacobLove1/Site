@@ -43,4 +43,14 @@ The technology is still undergoing clinical trials which are projected to conclu
 [Clinical trial documentation for VR4FND](https://clinicaltrials.gov/ct2/show/NCT02764476)
 
 
-
+# Project3 ScareCo Expansion
+Note: Check out Project2 ScareCo links and notes above for the original vision of the project. This section will focus on the changes made in the expansion.\
+The ScareCo Expansion provides all of the original functionality of the original ScareCo project, which simulates a fictional startup, “ScareCo,” that is using various objects such as toys and boardgames to help people get over their fear of family game night, alongside a host of other features which allow the user to fully experience the power of VR.\
+The primary update is unlocked in the VR menu. Pressing the X button on the Oculus now brings up an interactive 3D menu which allows the user to transport to another scene in which the ScareCo office is the size of a doll house which they can walk around and interact with as before, also including two new animated dolls the user can pick up and place in the scene.\
+The menu also gives the ability to shrink to one foot in height, return to normal size, toggle gravity, turn the scene 90 degrees forward or to the side, and reset the scene to the original office space. In addition, 10 new small interactable models have been added to the tables to give the user more to play with in miniaturized scale, and all the tables have additional functionality so they can be climbed for easy access in the smaller scale.\
+A new movement system has also been added for easier mobility in zero gravity, where the player can press the front right trigger and move in the direction their right hand is pointing.\
+-[ScareCo Code](https://github.com/JacobLove1/ScareCO.git)\
+-[Instillation Guide](https://github.com/JacobLove1/Site/blob/36420fd12580a2ecb43297109b4cc00d69feff33/Instillation%20InstructionsP3.docx)\
+-[Project Video](https://www.youtube.com/)\
+-[Assets list and asset credits](https://github.com/JacobLove1/Site/blob/5451abfd10430fd8d31f886e043ac0afaefd3385/VRP3Assets.docx)\
+-[Notes On Perspective Shift]
