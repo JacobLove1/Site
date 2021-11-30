@@ -49,7 +49,7 @@ The ScareCo Expansion provides all of the original functionality of the original
 The primary update is unlocked in the VR menu. Pressing the X button on the Oculus now brings up an interactive 3D menu which allows the user to transport to another scene in which the ScareCo office is the size of a doll house which they can walk around and interact with as before, also including two new animated dolls the user can pick up and place in the scene.\
 The menu also gives the ability to shrink to one foot in height, return to normal size, toggle gravity, turn the scene 90 degrees forward or to the side, and reset the scene to the original office space. In addition, 10 new small interactable models have been added to the tables to give the user more to play with in miniaturized scale, and all the tables have additional functionality so they can be climbed for easy access in the smaller scale.\
 A new movement system has also been added for easier mobility in zero gravity, where the player can press the front right trigger and move in the direction their right hand is pointing.\
--[ScareCo Code](https://github.com/JacobLove1/ScareCO.git)\
+-[ScareCo Code](https://github.com/JacobLove1/ScareCo1)\
 -[Instillation Guide](https://github.com/JacobLove1/Site/blob/36420fd12580a2ecb43297109b4cc00d69feff33/Instillation%20InstructionsP3.docx)\
 -[Project Video](https://youtu.be/FXWkQ3PE7ss)\
 -[Assets list and asset credits](https://github.com/JacobLove1/Site/blob/5451abfd10430fd8d31f886e043ac0afaefd3385/VRP3Assets.docx)\
